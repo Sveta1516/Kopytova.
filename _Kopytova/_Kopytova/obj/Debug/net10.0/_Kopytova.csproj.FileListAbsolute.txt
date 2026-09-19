@@ -1,0 +1,15 @@
+C:\Users\MateBook\Downloads\_Kopytova\_Kopytova\bin\Debug\net10.0\_Kopytova.exe
+C:\Users\MateBook\Downloads\_Kopytova\_Kopytova\bin\Debug\net10.0\_Kopytova.deps.json
+C:\Users\MateBook\Downloads\_Kopytova\_Kopytova\bin\Debug\net10.0\_Kopytova.runtimeconfig.json
+C:\Users\MateBook\Downloads\_Kopytova\_Kopytova\bin\Debug\net10.0\_Kopytova.dll
+C:\Users\MateBook\Downloads\_Kopytova\_Kopytova\bin\Debug\net10.0\_Kopytova.pdb
+C:\Users\MateBook\Downloads\_Kopytova\_Kopytova\obj\Debug\net10.0\_Kopytova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MateBook\Downloads\_Kopytova\_Kopytova\obj\Debug\net10.0\_Kopytova.AssemblyInfoInputs.cache
+C:\Users\MateBook\Downloads\_Kopytova\_Kopytova\obj\Debug\net10.0\_Kopytova.AssemblyInfo.cs
+C:\Users\MateBook\Downloads\_Kopytova\_Kopytova\obj\Debug\net10.0\_Kopytova.csproj.CoreCompileInputs.cache
+C:\Users\MateBook\Downloads\_Kopytova\_Kopytova\obj\Debug\net10.0\_Kopytova.dll
+C:\Users\MateBook\Downloads\_Kopytova\_Kopytova\obj\Debug\net10.0\refint\_Kopytova.dll
+C:\Users\MateBook\Downloads\_Kopytova\_Kopytova\obj\Debug\net10.0\_Kopytova.pdb
+C:\Users\MateBook\Downloads\_Kopytova\_Kopytova\obj\Debug\net10.0\_Kopytova.genruntimeconfig.cache
+C:\Users\MateBook\Downloads\_Kopytova\_Kopytova\obj\Debug\net10.0\ref\_Kopytova.dll
+C:\Users\MateBook\Downloads\_Kopytova\_Kopytova\obj\Debug\net10.0\_Kopytova.csproj.Up2Date
